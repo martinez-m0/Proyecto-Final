@@ -1,5 +1,5 @@
 # Proyecto-Final (Ahorcado)
-Codigo, Repo, Diapositivas, Diagrama de flujo, autoria de: Carlos Samuel Guitierres Olejua y Miguel David Martinez Mendez (Grupo : Master chill)
+Codigo, Repo, Diagrama de flujo, autoria de: Carlos Samuel Guitierres Olejua y Miguel David Martinez Mendez (Grupo : Master chill)
 # Resumen
 Este es un juego del ahorcado con varias dificultades y archivos personalizados. Usa listas para:
 
