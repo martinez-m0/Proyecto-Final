@@ -207,7 +207,7 @@ Para finalizar, se ejecuta un bucle sencillo pero fundamental, que analiza si la
 
         L --> M[Solicitar letra al usuario]
         M --> N{¿Letra válida y no repetida?}
-        N -- No --> dibuja siguiente segmento del muñeco
+        N -- No --> M
         N -- Sí --> O[Agregar letra a letras_todas]
 
         O --> P{¿Letra está en palabra?}
