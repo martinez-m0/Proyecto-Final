@@ -214,7 +214,7 @@ Para finalizar, se ejecuta un bucle sencillo pero fundamental, que analiza si la
         P -- Sí --> Q[Actualizar letras acertadas en resultado]
         Q --> G
 
-        P -- No --> R[Incrementar fallos]
+        P -- No --> R[Incrementar fallos y dibuja siguiente segmento del ahorcado]
         R --> G
 
         H --> Z[Fin]
